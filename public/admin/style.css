@@ -1,0 +1,30 @@
+.menu_action {
+	padding: 0px;
+	margin: 0px 0px;
+	/*float: left;*/
+}
+
+.menu_action li {
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: -5px;
+}
+
+.menu_action ul {
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.line { height: 8px; background: url(../admin/images/line.png) repeat-x; display: block; }
+.option {
+  margin: 10px;
+  padding-left: 5px;
+}
+.option a i {
+  margin-left: 10px;
+}

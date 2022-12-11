@@ -1,0 +1,1 @@
+<?php echo $news_infor->noidung?>

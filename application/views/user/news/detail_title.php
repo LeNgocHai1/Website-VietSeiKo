@@ -1,0 +1,1 @@
+<title><?php echo $news_infor->nameNews?></title>
